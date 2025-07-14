@@ -8,7 +8,7 @@ Welcome! I'm a passionate Software Engineer specializing in backend development,
 
 * 🔭 Currently: Software Engineer at Auxia Inc., Bangalore
 * 🌱 Learning: Advanced credit-risk modeling and conversational AI integrations
-* 💬 Ask me about: Python, Streamlit, React, Microservices, Kubernetes
+* 💬 Ask me about: C++, Kotlin, Microservices, System Design
 * 📫 How to reach me: [abhinavp1e9@gmail.com](mailto:abhinavp1e9@gmail.com)
 * ⚡ Fun fact: Competitive programmer (Codeforces Expert, LeetCode Knight)
 
@@ -32,8 +32,8 @@ Welcome! I'm a passionate Software Engineer specializing in backend development,
 
 ## 🔧 Skills
 
-* **Languages:** Python, Java, JavaScript/TypeScript, Go, Kotlin, C++
-* **Frameworks & Tools:** React, Streamlit, Spring Boot, Hibernate, Docker, Kubernetes
+* **Languages:** Java, JavaScript/TypeScript, Go, Kotlin, C++
+* **Frameworks & Tools:** React, Spring Boot, Hibernate, Docker, Kubernetes
 * **Cloud & DBs:** Google Cloud Platform, PostgreSQL, SQL, Redis
 * **DevOps:** Git, CI/CD (GitHub Actions), Linux
 
