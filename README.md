@@ -1,6 +1,6 @@
 # Abhinav Pandey
 
-Welcome! I'm a passionate Software Engineer specializing in full-stack development, cloud-native architectures, and data-driven applications. I have a proven track record at companies like Auxia Inc. and Arista Networks, and I enjoy tackling complex problems under tight deadlines.
+Welcome! I'm a passionate Software Engineer specializing in backend development, cloud-native architectures, and data-driven applications. I have a proven track record at companies like Auxia Inc. and Arista Networks, and I enjoy tackling complex problems under tight deadlines.
 
 ---
 
